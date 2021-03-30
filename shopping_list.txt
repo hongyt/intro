@@ -8,3 +8,6 @@ carrots
 cereal
 cucumbers
 potato
+Chips 
+Beef
+Avocados
