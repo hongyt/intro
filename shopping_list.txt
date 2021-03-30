@@ -6,3 +6,5 @@ orange
 cherry
 carrots
 cereal
+cucumbers
+potato
